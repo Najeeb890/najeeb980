@@ -1,5 +1,5 @@
 
-#  https://github.com/Najeeb890/najeeb980.git
-#  cd najeeb980
+# https://github.com/Najeeb890/najeeb980.git
+# cd najeeb980
 # ls
-# 
+# python najeeb980.py
